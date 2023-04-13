@@ -1,0 +1,1126 @@
+* {
+   padding: 0;
+   margin: 0;
+}
+
+.logo svg {
+   position: fixed;
+   margin-left: 70px;
+   margin-top: -180px;
+}
+
+.parent2 {
+   max-width: 1300px;
+   margin-top: 250px;
+   max-width: 1050px;
+   font-size: 80px;
+   font-weight: 200;
+   margin-left: 70px;
+}
+
+.luck i {
+   margin-left: 100px;
+   margin-top: 50px;
+   display: none;
+}
+
+.glue {
+   display: flex;
+   margin-top: -250px;
+   position: fixed;
+   left: 87%;
+}
+
+.glue p {
+   font-size: 25px;
+   margin-top: 200px;
+   transform: rotate(90deg);
+}
+
+.blue {
+   height: 750px;
+   width: 60px;
+   background-color: #5ea3ec;
+}
+
+.red {
+   height: 750px;
+   width: 60px;
+   background-color: #f64444;
+}
+
+.try {
+   margin-top: 90px;
+   margin-left: 14px;
+}
+
+.cry {
+   margin-top: 90px;
+   margin-left: 15px;
+}
+
+.fry {
+   margin-top: 90px;
+   margin-left: 15px;
+}
+
+.orange {
+   height: 750px;
+   width: 60px;
+   background-color: #ffb400;
+}
+
+.canal {
+   max-width: 1500px;
+}
+
+.image img {
+   height: 700px;
+   margin-top: 120px;
+   margin-bottom: 120px;
+   max-width: 1500px;
+}
+
+.parent3 {
+   max-width: 1000px;
+}
+
+.text2 {
+   font-size: 100px;
+   font-weight: 400;
+   margin-left: 80px;
+   max-width: 600px;
+   line-height: 120px;
+}
+
+.parent4 {
+   max-width: 1050px;
+   display: flex;
+   margin-top: 60px;
+   margin-left: 60px;
+   line-height: 20px;
+   font-family: sans-serif;
+   font-size: 14px;
+}
+
+.image2 img {
+   height: 430px;
+   max-width: 300px;
+   margin-right: 60px;
+}
+
+.image2 p {
+     max-width: 220px;
+   margin-top: 20px;
+}
+
+.image3 img {
+   height: 430px;
+   max-width: 300px;
+   margin-bottom: 60px;
+   
+}
+
+.image3 p {
+   max-width: 170px;
+   margin-left: 20px;
+   margin-top: -40px;
+}
+
+.image4 img {
+   height: 430px;
+   max-width: 300px;
+   margin-left: 60px;
+}
+
+.image4 p {
+   max-width: 150px;
+   margin-top: 20px;
+   margin-left: 80px;
+}
+
+.parent5 {
+   max-width: 1050px;
+   margin-bottom: 150px;
+   margin-top: 200px;
+}
+
+.text3 {
+   font-size: 70px;
+   margin-left: auto;
+   margin-right: auto;
+   width: 100px;
+}
+
+.text4 tspan {
+   font-size: 70px;
+   position: relative;
+   left: 15%;
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: #000;
+   -webkit-text-fill-color: transparent;
+   font-weight: 500;
+}
+
+.text4 {
+   margin-top: -130px;
+}
+
+.text5 tspan {
+   font-size: 70px;
+   position: relative;
+   left: 83%;
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: #000;
+   -webkit-text-fill-color: transparent;
+   font-weight: 500;
+}
+
+.text5 {
+   margin-top: -80px;
+}
+
+.border1 {
+   max-width: 1300px;
+   border: 1px;
+   border-style: dashed;
+   margin: 20px;
+}
+
+.border2 {
+   max-width: 1300px;
+   border: 1px;
+   border-style: dashed;
+   margin: 20px;
+}
+
+.parent6 {
+   max-width: 950px;
+   justify-content: space-between;
+   display: flex;
+   margin-top: 90px;
+   margin-bottom: 70px;
+   margin-left: 120px;
+}
+
+.parent6 p {
+   margin-top: 30px;
+   width: 270px;
+   font-size: 17px;
+   margin-left: -90px;
+   text-align: center;
+   font-family: sans-serif;
+}
+
+.text6 {
+   margin-left: 60px;
+}
+
+.text7 p {
+   max-width: 270px;
+}
+
+.movie {
+   border: 1px;
+   border-style: dashed;
+   width: 100px;
+   display: none;
+}
+
+.follow {
+   border: 1px;
+   border-style: dashed;
+   width: 100px;
+   display: none;
+}
+
+.crazy {
+   border: 1px;
+   border-style: dashed;
+   width: 100px;
+   display: none;
+}
+
+.excited {
+   border: 1px;
+   border-style: dashed;
+   width: 100px;
+   display: none;
+}
+
+.fun {
+   border: 1px;
+   border-style: dashed;
+   width: 100px;
+   display: none;
+}
+
+.front {
+   border: 1px;
+   border-style: dashed;
+   width: 100px;
+   display: none;
+}
+
+.graze {
+   border: 1px;
+   border-style: dashed;
+   width: 100px;
+   display: none;
+}
+
+.filter {
+   border: 1px;
+   border-style: dashed;
+   width: 100px;
+   display: none;
+}
+
+.parent7 {
+   max-width: 1100px;
+}
+
+.btn1 {
+   height: 60px;
+   width: 170px;
+   border: 1px solid #000;
+   color: #000;
+   text-align: center;
+   font-size: 19px;
+   position: relative;
+   left: 45%;
+   cursor: pointer;
+}
+
+.btn1 p {
+   margin-top: 15px;
+}
+
+.btn1:hover {
+   background-color: #000;
+   color: #fff;
+   font-size: 19px;
+}
+
+.bold {
+   max-width: 1100px;
+   border: 1px dashed #000;
+   margin-bottom: 20px;
+   display: none;
+
+}
+
+.bolds {
+   max-width: 1100px;
+   border: 1px dashed #000;
+   display: none;
+}
+
+.call {
+   max-width: 1100px;
+   border: 1px dashed #000;
+   margin-bottom: 20px;
+   display: none;
+}
+
+.calls {
+   max-width: 1100px;
+   border: 1px dashed #000;
+   display: none;
+}
+
+.border3 {
+   max-width: 1000px;
+   border: 1px;
+   border-style: dashed;
+   margin: 20px;
+   margin-top: -40px;
+   margin-left: 50px;
+}
+
+.border4 {
+   max-width: 1000px;
+   border: 1px;
+   border-style: dashed;
+   margin: 20px;
+   margin-bottom: 150px;
+   margin-left: 50px;
+}
+
+.parent8 {
+   max-width: 1000px;
+   margin-bottom: 80px;
+   margin-left: 60px;
+   display: flex;
+   text-align: center;
+}
+
+.border5 {
+   height: 320px;
+   min-width: 490px;
+   border: 2px;
+   border-style: dashed;
+}
+
+.border5 p {
+   margin-top: 90px;
+   font-size: 60px;
+   max-width: 370px;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+
+.border6 {
+   height: 320px;
+   min-width: 490px;
+   border: 2px;
+   border-style: dashed;
+   margin-left: 50px;
+}
+
+.border6 img {
+   height: 320px;
+   max-width: 490px;
+}
+
+.parent9 {
+   max-width: 1100px;
+   margin-bottom: 50px;
+   margin-top: 150px;
+}
+
+.text9 {
+   font-size: 50px;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+   margin-bottom: 30px;
+}
+
+.click {
+   max-width: 1000px;
+}
+
+.btn2 {
+   height: 50px;
+   width: 170px;
+   border: 1px solid #000;
+   color: #000;
+   font-size: 19px;
+   text-align: center;
+   position: relative;
+   left: 47%;
+   cursor: pointer;
+}
+
+.btn2 p {
+   margin-top: 12px;
+}
+
+.btn2:hover {
+   background-color: #000;
+   color: #fff;
+   font-size: 19px;
+}
+
+.parent10 {
+   max-width: 1000px;
+   margin-bottom: 80px;
+   display: flex;
+   justify-content: space-between;
+   margin-left: 60px;
+   margin-top: 100px;
+   cursor: pointer;
+}
+
+.parent10 p {
+   margin-left: 120px;
+   max-width: 85px;
+   margin-top: -20px;
+}
+
+.parent10 svg {
+   margin-bottom: 30px;
+   margin-right: -50px;
+   margin-left: 140px;
+   margin-top: 50px;
+}
+
+.draw {
+   border: 2px;
+   border-style: dashed;
+   width: 300px;
+   height: 180px;
+}
+
+.facebook {
+   border: 2px;
+   border-style: dashed;
+   width: 300px;
+   height: 180px;
+}
+ 
+.insta {
+   border: 2px;
+   border-style: dashed;
+   width: 300px;
+   height: 180px;
+}
+
+.stayup {
+   max-width: 1000px;
+   margin-bottom: 80px;
+   margin-left: 60px;
+   border: 2px dashed black;
+   padding: 30px 0px;
+   display: flex;
+   flex-direction: row;
+   column-gap: 30px;
+}
+  
+.stayup input {
+   max-width: 700px;
+   width: 100%;
+   padding: 20px 170px 20px 20px;
+   color: #000;
+   font-size: 22px;
+}
+
+.stayup p {
+   max-width: 200px;
+   font: 22px italic;
+   padding-left: 20px;
+   text-align: center;
+}
+
+.stayup h3 {
+   display: none;
+}
+
+.inbox {
+   margin-left: 40px;
+   display: none;
+}
+
+.border8 {
+   max-width: 500px;
+   height: 30px;
+   margin-top: -70px;
+}
+
+.parent12 {
+   max-width: 1000px;
+   margin-left: 60px;
+   display: flex;
+
+   font-size: 20px;
+   justify-content: space-between;
+   margin-bottom: 30px;
+}
+
+.parent12 a {
+   max-width: 1100px;
+   text-decoration: underline;
+   color: #000;
+}
+
+.parent12 span {
+   color: blue;
+}
+/* -------------------------MOBILE RESPONSIVE---------------------- */
+@media only screen and (max-width: 600px) {
+   .logo {
+      margin-top: -40px;
+      margin-left: -40px;
+   }
+
+   .logo svg {
+      height: 60px;
+   }
+
+   .text {
+      max-width: 290px;
+      font-size: 35px;
+      margin-left: -45px;
+       margin-bottom: 20px;
+   }
+   .glue{
+      display: none;
+   }
+
+   .luck i {
+      display: block;
+      font-size: 21px;
+      margin-left: 300px;
+      position: fixed;
+      margin-top: -160px;
+   }
+
+   .image img {
+      max-width: 375px;
+      width: 100%;
+      height: 400px;
+      margin-top: 30px;
+   }
+    .parent2{
+      max-width: 370px;
+    }
+   .text2 {
+      margin-top: -40px;
+      max-width: 190px;
+      font-size: 59px;
+      margin-left: 25px;
+      line-height: 65px;
+   }
+   .wrap{
+      overflow: hidden;
+   }
+     .parent4{
+      display: inline-block;
+       max-width: 370px;
+       width: 100%;
+       margin-top: 20px;
+     }
+     .parent4 img{
+      margin-left: -40px;
+      min-width: 320px;
+      overflow: hidden;
+      height: 400px;
+      margin-left: -30px;
+      margin-right: 10px;
+      font-size: 15px;
+      margin-top: 30px;
+     }
+     .parent4 p {
+      margin-left: -30px;
+   }
+    
+   .parent5 {
+      display: inline-block;
+      margin-bottom: 10px;
+      margin-top: 190px;
+      margin-left: 40px;
+   }
+
+   .text3 {
+      font-size: 60px;
+      margin-left: 50px;
+   }
+
+   .text4 {
+      margin-top: -240px;
+      font-size: 40px;
+   }
+
+   .text4 tspan {
+      max-width: 250px;
+      font-size: 50px;
+      margin-left: 60px;
+      margin-top: -20px;
+   }
+
+   .text5 tspan {
+      font-size: 50px;
+      margin-left: -50px;
+      margin-top: -5px;
+   }
+
+   .text5 {
+      margin-top: 210px;
+   }
+
+   .bold {
+      border: 1px dashed #000;
+      margin-bottom: 20px;
+      display: block;
+      margin-top: -40px;
+      width: 220px;
+      margin-left: 20px;
+   }
+
+   .bolds {
+      border: 1px dashed #000;
+      display: block;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      width: 220px;
+      margin-left: 20px;
+   }
+
+   .call {
+      border: 1px dashed #000;
+      margin-bottom: 20px;
+      display: block;
+      margin-top: 50px;
+      width: 220px;
+      margin-left: 20px;
+   }
+
+   .calls {
+      border: 1px dashed #000;
+      display: block;
+      margin-top: 20px;
+      width: 220px;
+      margin-left: 20px;
+   }
+
+   .border1 {
+      margin-top: 150px;
+      width: 220px;
+      margin-left: 30px;
+   }
+
+   .border2 {
+      width: 220px;
+      margin-left: 30px;
+   }
+
+   .parent6 {
+      display: inline-block;
+      margin-left: 50px;
+      width: 160px;
+      font-size: 15px;
+   }
+
+   .text6 {
+      margin-left: 100px;
+      font-size: 15px;
+      margin-top: 50px;
+   }
+
+   .parent6 p {
+      font-size: 15px;
+      margin-left: -60px;
+      width: 170px;
+      margin-top: 20px;
+      line-height: 20px;
+   }
+
+   .crazy {
+      max-width: 180px;
+      margin-left: 10px;
+      display: block;
+      margin-top: 50px;
+   }
+
+   .excited {
+      max-width: 180px;
+      margin-left: 10px;
+      display: block;
+      margin-top: 30px;
+      margin-bottom: 50px;
+   }
+
+   .fun {
+      width: 220px;
+      margin-left: -70px;
+      display: block;
+      margin-top: 50px;
+   }
+
+   .front {
+      width: 220px;
+      margin-left: -70px;
+      display: block;
+      margin-top: 20px;
+      margin-bottom: 50px;
+   }
+
+   .text7 {
+      margin-left: 90px;
+      margin-top: 50px;
+   }
+
+   .text7 p {
+      margin-left: -50px;
+      width: 150px;
+   }
+
+   .text8 {
+      margin-top: -20px;
+      margin-left: 90px;
+   }
+
+   .text8 p {
+      margin-top: 10px;
+      margin-left: -50px;
+   }
+   .border3 {
+      margin-top: -190px;
+      width: 220px;
+      margin-left: 70px;
+   }
+   .border4 {
+      width: 220px;
+      margin-left: 70px;
+   }
+   .btn1 {
+      margin-left: -150px;
+      width: 315px;
+      height: 60px;
+      font-size: 20px;
+      margin-top: 40px;
+      margin-bottom: 50px;
+   }
+   .btn1 p {
+      margin-top: 17px;
+   }
+   .border5 {
+      min-width: 280px;
+      width: 100%;
+      height: 220px;
+      margin-top: -60px;
+      text-align: center;
+      margin-left: -40px;
+   }
+   .border5 p {
+      width: 290px;
+      font-size: 42px;
+      margin-top: 70px;
+      margin-left: 10px;
+      margin-right: -20px;
+   }
+   .border5 span {
+      font-size: 35px;
+   }
+   .border6 {
+      display: none;
+   }
+   .border6 img {
+      display: none;
+   }
+   .text9 p {
+      margin-left: 60px;
+      font-size: 25px;
+      margin-top: -120px;
+      max-width: 230px;
+   }
+   .btn2 {
+      margin-left: -155px;
+      width: 310px;
+      height: 60px;
+      font-size: 20px;
+      margin-bottom: 50px;
+   }
+   .btn2 p {
+      margin-top: 17px;
+   }
+   .parent10 {
+      max-width: 300px;
+      display: inline-block;
+      margin-left: 40px;
+      margin-bottom: 30px;
+      margin-top: -30px;
+      overflow: auto;
+   }
+   .draw {
+      height: 120px;
+      max-width: 250px;
+      width: 100%;
+      margin-bottom: 30px;
+   }
+   .draw svg {
+      margin-top: 30px;
+      margin-left: 100px;
+   }
+   .draw p{
+      margin-left: 80px;
+   }
+   .facebook {
+      height: 130px;
+      max-width: 250px;
+      margin-bottom: 30px;
+   }
+   .facebook svg {
+      margin-top: 30px;
+      margin-left: 100px;
+   }
+   .facebook p {
+      margin-left: 80px;
+      width: 80px;
+   }
+   .insta {
+      height: 130px;
+      max-width: 250px;
+      margin-bottom: 30px;
+   }
+   .insta p {
+      margin-left: 80px;
+      width: 90px;
+   }
+   .insta svg {
+      margin-top: 30px;
+      margin-left: 100px;
+   }
+   .inbox {
+      margin-top: -100px;
+      margin-left: 100px;
+      display: block;
+      margin-bottom: 20px;
+   }
+
+   .parent11 {
+      width: 280px;
+      margin-left: 20px;
+       overflow: hidden; 
+   }
+   .stayup h3 {
+      width: 300px;
+      font-size: 14px;
+      font-family: sans-serif;
+      margin-left: 40px;
+      margin-top: 40px;
+      display: block;
+   }
+   .stayup {
+      max-width: 250px;
+      height: 110px;
+      margin-left: 20px;
+      margin-top: 0px;
+      display: block;
+      
+   }
+   .stayup input {
+      padding: 5px 10px 2px;
+      max-width: 150px;
+      margin-left: 40px;
+      margin-top: 20px;
+      box-sizing: border-box;
+   }
+   .stayup p {
+      display: none;
+   }
+   .border8 {
+      max-width: 150px;
+      height: 30px;
+      margin-left: -60px;
+   }
+   .parent12 {
+      max-width: 350px;
+      justify-content: space-between;
+      display: inline-block;
+      grid-template-rows: 50px;
+      column-gap: 30px;
+      font-size: 11px;
+      margin-top: -40px;
+      line-height: 30px;
+      font-family: apercu,sans-serif;
+   }
+   .span {
+      margin-left: -40px;
+   }
+
+   .round {
+      margin-left: 10px;
+   }
+
+   .round1 {
+      margin-left: -10px;
+   }
+
+   .round2 {
+      margin-left: 80px;
+   }
+}
+/* ---------------------TABLET RESPONSIVE---------------------- */
+@media only screen and (min-width: 580px) and (max-width: 1024px) {
+   .logo svg{
+   width: 60px;
+   height: 60px;
+   margin-top: -200px;
+}
+.glue{
+   margin-left: -100px;
+   height: 500px;
+   
+}
+.red{
+   height: 2000px;
+   width: 70px;
+}
+.blue{
+   height: 2000px;
+   width: 70px;
+}
+.orange{
+   height: 2000px;
+   width: 70px;
+}
+.glue p{
+margin-top: 500px;
+font-size: 30px;
+}
+.text{
+   font-size: 70px;
+   width: 450px;
+}
+.image img{
+   max-width: 690px;
+   height: 400px;
+ }
+.text2{
+   font-size: 110px;
+   max-width: 400px;
+}
+.parent4{
+   max-width: 500px;
+   margin-left: 70px;
+}
+.parent4 p{
+   max-width: 100px;
+}
+.image2 img{
+   max-width: 130px;
+}
+.parent4 img{
+   max-width: 130px;
+   height: 170px;
+}
+.parent5{
+   max-width: 700px;
+   margin-left: -90px;
+}
+.text3{
+   font-size: 100px;
+   margin-left: 400px;
+}
+.text4 tspan{
+   font-size: 60px;  
+   margin-left: 60px;
+}
+.text4{
+   margin-top: -150px;
+}
+.text5{
+   margin-top: -80px;
+}
+.text5 tspan{
+   font-size: 60px;
+   margin-left: 170px;
+}
+.parent6{
+   max-width: 550px;
+   margin-left: 40px;
+   font-size: 18px;
+}
+.parent6 p{
+   margin-left: -30px;
+   font-size: 18px;
+}
+.text6 p{
+   width: 120px;
+   font-size: 18px;
+}
+.text7 p{
+   width: 120px;
+   font-size: 18px;
+}
+.text8 p{
+   width: 170px;
+   font-size: 18px;
+}
+.btn1{
+   height: 70px;
+   width: 210px;
+   font-size: 30px;
+   margin-left: -40px;
+}
+.btn1 p{
+   margin-top: 13px;
+}
+.parent7{
+   max-width: 550px;
+   margin-left: 45px;
+}
+.parent8{
+   max-width: 550px;
+}
+.border5{
+   min-width: 230px;
+   height: 640px;
+   border: 2px dashed black;
+}
+.border5 p{
+   width: 0px;
+   font-size: 60px;
+   margin-left: 40px;
+   margin-right: 10px;
+}
+.border6{
+   height: 640px;
+   border: 2px dashed black;
+   min-width: 230px;
+}
+.border6 img{
+   width: 230px;
+   height: 640px;
+}
+.text9{
+   margin-left: 190px;
+   width: 300px;
+}
+.click{
+   max-width: 450px;
+}
+.btn2{
+   height: 70px;
+   width: 220px;
+   font-size: 20px;
+}
+.btn2 p{
+   margin-top: 23px;
+}
+.parent10{
+   min-width: 550px;
+}
+.parent10 svg{
+   height: 50px;
+   width: 50px;
+   margin-left: 60px;
+}
+.parent10 p{
+   font-size: 25px;
+   margin-left: -10px;
+}
+.draw{
+   width: 150px;
+   height: 250px;
+}
+.draw p{
+   margin-left: 50px;
+}
+.facebook{
+   width: 170px;
+   height: 250px;
+   margin-left: -140px;
+}
+ .facebook p{
+   margin-left: 60px;
+ }
+.insta{
+   width: 170px;
+   height: 250px;
+   margin-left: px;
+  
+}
+.insta p{
+   margin-left: 60px;
+ }
+.parent11{
+   max-width: 550px;
+}
+.parent11 p{
+   width: 140px;
+   font-size: 33px;
+}
+.parent11 input{
+   width: 20px;
+   margin-left: 20px;
+   margin-top: 20px;
+}
+
+.parent12{
+   max-width: 550px;
+   font-size: 15px;
+}
+}
